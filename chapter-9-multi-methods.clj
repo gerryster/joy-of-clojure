@@ -1,3 +1,6 @@
+; repl usage: (load-file "chapter-9-multi-methods.clj")
+; (ns joy.udp)
+
 (ns joy.udp
   "The Universal Design Pattern (UDP) example from section 9.2."
   (:refer-clojure :exclude [get]))
